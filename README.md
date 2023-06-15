@@ -37,7 +37,7 @@ Stakeholders: GameCo Executive
 
 The audience for this project is the hypothetical company GameCo, specifically its
 executives who’ve asked you to gather insights. For a further sense of the “who,”
-please refer to the hypothetical stakeholder quotes below:
+please refer to the hypothetical stakeholder quotes below.
 
 ● **Vice President of Marketing**:​ “We’re always eager to know which genres of
 games are performing the best, so we can allocate our marketing budget
@@ -90,14 +90,19 @@ for instance, this represents a total of 1.2 million units sold.
 ## 06 Folder Structure
 **01 Project Management/Storytelling**
       This folder will contain all the documentation related to the project; for instance, a project plan with a timeline, a budget, any signed contracts, and, in general, any important paperwork related to the project’s organization.
+      
 **02 Data**
      This folder will contain any data sets used in the project. Within this folder have two additional subfolders: “Original Data” for storing the raw data sets, and “Prepared Data”, for storing any manipulated data sets.
+     
 **03 Scripts/Python**
  This folder will contain your scripts or notebooks. These should follow an intuitive naming system; for instance, an abbreviation of the project name and the step in the process it represents. 
+ 
 **04 Analysis/Visualizations**
 This folder will contain all the results produced throughout the analysis. You might want to create subfolders for the different deliverables you produce—for example, “Visualizations,” “Test files,” and “Reports.”
+
 **05 Sent to client**
 This folder will contain all the final deliverables you’ve sent to the client. These should be the latest versions of any results you’ve produced and should be kept up to date.
+
 **06 Database**
 This folder contains all the information required for the database, like tables, queries & database scripts.
 
