@@ -39,19 +39,19 @@ The audience for this project is the hypothetical company GameCo, specifically i
 executives who’ve asked you to gather insights. For a further sense of the “who,”
 please refer to the hypothetical stakeholder quotes below:
 
-    ● **Vice President of Marketing**:​ “We’re always eager to know which genres of
-    games are performing the best, so we can allocate our marketing budget
-    efficiently.”
+● **Vice President of Marketing**:​ “We’re always eager to know which genres of
+games are performing the best, so we can allocate our marketing budget
+efficiently.”
     
-    ● **Chief Financial Officer**:​ “It’s imperative that we keep tabs on competitors and
-    what share of the market they’re gaining or losing. Part of how we
-    communicate our success to investors by showing how we’re able to grow
-    our business in an area where a competitor’s business is shrinking.”
+● **Chief Financial Officer**:​ “It’s imperative that we keep tabs on competitors and
+what share of the market they’re gaining or losing. Part of how we
+communicate our success to investors by showing how we’re able to grow
+our business in an area where a competitor’s business is shrinking.”
     
-    ● **Senior Vice President of Sales**:​ “We must understand swings in
-    the market. If one market becomes more dominant over time in terms of
-    sales, we’ll want to know so we can make sure we have a sufficient number of
-    sales reps serving that market.”
+● **Senior Vice President of Sales**:​ “We must understand swings in
+the market. If one market becomes more dominant over time in terms of
+sales, we’ll want to know so we can make sure we have a sufficient number of
+sales reps serving that market.”
     
 
 ## Final Analysis Criteria
@@ -85,18 +85,18 @@ for instance, this represents a total of 1.2 million units sold.
 
 ## Approach to the problem
 
-    ### Understanding the data
+### Understanding the data
         • Understanding the data and classifying the data set as Quantitative or Qualitative.
 
-    ### Data cleaning
+### Data cleaning
         • Identifying the source of data, data bias and gaps.
         • Identify dirty data and analytics practice methods of cleaning data
 
-    ### Analytics
+### Analytics
         • Experiment with the fundamentals of descriptive analysis by exploratory data analysis (EDA).
         • Identify the Symmetrical and Skewed Distribution.
 
-    ### Storytelling
+### Storytelling
         • Develop data visualisations for stakeholders.
         • Develop a narrative about data insights for stakeholders.
 
