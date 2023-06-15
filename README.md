@@ -7,7 +7,7 @@ GameCo
 
 
 
-## Objetive
+## 01 Objetive
 
 An analyst for a new video game company, GameCo, which wants to
 use data to inform the development of new games. As such, Data Analyst has been
@@ -16,7 +16,7 @@ better understanding of how GameCo’s new games might fare in the market.
 
 
 
-## Key Questions from stakeholders
+## 02 Key Questions from stakeholders
 
 **GameCo executives** are open to hearing any insights pulled from the data but
 are specifically interested in the following questions:
@@ -33,7 +33,7 @@ are specifically interested in the following questions:
 Stakeholders: GameCo Executive
 
 
-## Target Audience
+## 03 Target Audience
 
 The audience for this project is the hypothetical company GameCo, specifically its
 executives who’ve asked you to gather insights. For a further sense of the “who,”
@@ -54,14 +54,14 @@ sales, we’ll want to know so we can make sure we have a sufficient number of
 sales reps serving that market.”
     
 
-## Final Analysis Criteria
+## 04 Final Analysis Criteria
     ● Must include summary stats on several variables.
     ● Must include three different types of visualizations.
     ● Visualizations must be clearly labelled.
     ● Final project needs to be professional 
     
 
-## Data Set
+## 05 Data Set
 
 We’ll use a data set covering historical video game sales (for games that sold 
 more than 100,000 copies) spanning different platforms, genres, and publishing
@@ -74,16 +74,23 @@ Important points regarding the data set:
 for instance, this represents a total of 1.2 million units sold.
 
 
-## Skills/Tools/Procedures
-• Excel
-• Grouping Data
-• Summarising the data
-• Descriptive Analysis
-• Visualising results in Excel
-• Presenting results
+## 06 Skills/Tools/Procedures
+    • Excel
+    
+    • Grouping Data
+    
+    • Summarising the data
+    
+    • Descriptive Analysis
+    
+    • Visualising results in Excel
+    
+    • Presenting results
 
 
-## Approach to the problem
+
+
+## 07 Approach to the problem
 
 ### Understanding the data
         • Understanding the data and classifying the data set as Quantitative or Qualitative.
@@ -101,13 +108,15 @@ for instance, this represents a total of 1.2 million units sold.
         • Develop a narrative about data insights for stakeholders.
 
 
-## Final presentation to stakeholders
+
+## 08 Final presentation to stakeholders
 
 Using pivot tables and visualisation tools, some of the insights from the data.
 
 
 
-## Conclusion
+
+## 09 Conclusion
 
 • GameCo administrative assumed sales across regions are consistent over the year,
 and the distribution of marketing resources equally would generate more revenue. 
