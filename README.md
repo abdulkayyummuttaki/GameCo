@@ -110,27 +110,40 @@ This folder will contain all the final deliverables you’ve sent to the client.
 ## 07 Approach to the problem
 
 ### Understanding the data
-        • Understanding the data and classifying the data set as Quantitative or Qualitative.
+        ● Get to know video game sales data by asking questions and describing its dimensions.
+        ● Categorizing the data types, characteristics, and potential bias in this data
+        set.
 
 ### Data cleaning
-        • Identifying the source of data, data bias and gaps.
-        • Identify dirty data and analytics practice methods of cleaning data
+        ● Identifying the source of data, data bias and gaps.
+        ● Identify dirty data and analytics practice methods of cleaning data
+
+### Grouping and Summarizing the data
+        ● Using pivot tables to make the video game sales data more usable and insightful.
+        ● Creating groups so that similar items can be analyzed together.
+        ● Analyzing sales in North America to get an idea of how games perform in this most popular market.
+        ● Filtering data to look at specific subsegments.
+        ● Creating new variables to glean as many insights as possible from the data.
+        ● Finding the most interesting about game sale data.
 
 ### Analytics
-        • Experiment with the fundamentals of descriptive analysis by exploratory data analysis (EDA).
-        • Identify the Symmetrical and Skewed Distribution.
+        ● Working through a series of hypothetical challenges facing GameCo.
+        ● Deciding which type of analysis to pursue in response to each challenge and
+        explaining reasoning.
+        ● Experimenting with the fundamentals of descriptive analysis by exploratory data analysis (EDA).
+        ● Identify the Symmetrical and Skewed Distribution.
 
 ### Storytelling
-        • Develop data visualisations for stakeholders.
-        • Develop a narrative about data insights for stakeholders.
+        ● Working with a business scenario and constructing insights for allocating
+            marketing budgets.
+        ● Developing data visualisations for stakeholders.
+        ● Developing a narrative about data insights for stakeholders.
 
 
 
 ## 08 Final presentation to stakeholders
 
 Using pivot tables and visualisation tools, some of the insights from the data.
-
-
 
 
 ## 09 Conclusion
