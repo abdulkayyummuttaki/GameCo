@@ -92,10 +92,6 @@ for instance, this represents a total of 1.2 million units sold.
       
 **02 Data**
      This folder will contain any data sets used in the project. Within this folder have two additional subfolders: “Original Data” for storing the raw data sets, and “Prepared Data”, for storing any manipulated data sets.
-     
- 
-**04 Analysis/Visualizations**
-This folder will contain all the results produced throughout the analysis. You might want to create subfolders for the different deliverables you produce—for example, “Visualizations,” “Test files,” and “Reports.”
 
 **05 Sent to client**
 This folder will contain all the final deliverables you’ve sent to the client. These should be the latest versions of any results you’ve produced and should be kept up to date.
