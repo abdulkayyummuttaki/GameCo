@@ -1,13 +1,23 @@
 # GameCo
 GameCo
 
+# Scope
+The project is to demonstrate Data Analytics skills using Excel.
+    1. Understanding the Data Set
+    2. Cleaning the Data
+    3. Grouping & Summarizing Your Data
+    4. Analytical Methods(Compare different approaches to data analysis)
+    5. Conducting a Descriptive Analysis
+    6. Developing Insights
+    7. Visualizing Data Insights
+    8. Storytelling with Data
 
 # Video Game Popularity Data Project
 
 
 
 
-## 01 Objetive
+## 01 Objectives
 
 An analyst for a new video game company, GameCo, which wants to
 use data to inform the development of new games. As such, Data Analyst has been
