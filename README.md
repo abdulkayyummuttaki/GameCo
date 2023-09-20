@@ -3,6 +3,7 @@ GameCo
 
 # Scope
 The project is to demonstrate Data Analytics skills using Excel.
+
     1. Understanding the Data Set
     2. Cleaning the Data
     3. Grouping & Summarizing Your Data
